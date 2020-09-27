@@ -1,4 +1,5 @@
 //Node module references
+//test2
 const Discord = require('discord.js'); //discord.js
 const bot = new Discord.Client(); //bot/client
 const fs = require('fs');
