@@ -15,7 +15,7 @@ for (const file of commandFiles) {
 }
 
 //Variables and other replacements
-const token = 'NTgwMDk1MTA5NTcyNDYwNTQ5.XePzLg.xjKMAKY2wkuSStI_OoUfxrrLmCI'; //storm bot
+const token = 'token goes here but its a secret shhhh'; //storm bot
 //const token = 'NjAyMzE0OTk3MTQ5ODU5ODQx.Xp4KcQ.JLndazZgJkUxs7esnCHzo7RAYy8'; //test bot
 const prefix = "//";
 const stormid = '580095109572460549';
